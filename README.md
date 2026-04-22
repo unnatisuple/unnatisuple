@@ -53,12 +53,6 @@
 
 ---
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
-
----
-
 ## 🧠 Featured Skills
 
 * Full Stack Web Development (MERN)
