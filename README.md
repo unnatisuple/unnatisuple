@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Unnati Suple
 
-🎓 Computer Science & Business Systems (CSBS) Engineering Student
-💡 Passionate about Full Stack Development & Problem Solving
+🎓 Computer Science & Business Systems (CSBS) Engineering Student from St. Vincent Pallotti College of Engineering and Technology    
+💡 Passionate about Full Stack Development & Problem Solving    
 🚀 Building impactful tech solutions with a business mindset
 
 ---
@@ -10,7 +10,7 @@
 
 * 🔭 Currently working on **MERN Stack Projects**
 * 🌱 Learning **Advanced Backend & AI Integration**
-* 💬 Ask me about **Web Development & APIs**
+* 💬 Ask me about **Data Analytics, Business Analytics & Web Development**
 * ⚡ Fun fact: I love combining **technology + business logic**
 
 ---
