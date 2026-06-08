@@ -80,3 +80,6 @@
 ## 🎯 Motto
 
 > "Code. Build. Innovate. Repeat."
+
+## Resume
+file:///C:/Users/ASUS/Downloads/Resume_Unnati.pdf
