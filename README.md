@@ -83,4 +83,4 @@
 
 ## 📄 Resume
 
-[📄 View My Resume](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/Resume_Unnati.pdf)
+[📄 View My Resume](https://github.com/unnatisuple/Portfolio/blob/main/Resume_Unnati.pdf)
