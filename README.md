@@ -3,9 +3,12 @@
 🎓 Computer Science & Business Systems (CSBS) Engineering Student from St. Vincent Pallotti College of Engineering and Technology    
 💡 Passionate about Full Stack Development & Problem Solving    
 🚀 Building impactful tech solutions with a business mindset
-🌐 **Portfolio:** [Visit My Portfolio](https://portfolio-three-rho-8knycly00s.vercel.app/)
+
 ---
 
+🌐 **Portfolio:** [Visit My Portfolio](https://portfolio-three-rho-8knycly00s.vercel.app/)
+
+---
 ## 🌟 About Me
 
 * 🔭 Currently working on **MERN Stack Projects**
