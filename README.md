@@ -3,7 +3,7 @@
 🎓 Computer Science & Business Systems (CSBS) Engineering Student from St. Vincent Pallotti College of Engineering and Technology    
 💡 Passionate about Full Stack Development & Problem Solving    
 🚀 Building impactful tech solutions with a business mindset
-
+🌐 **Portfolio:** [Visit My Portfolio](https://portfolio-three-rho-8knycly00s.vercel.app/)
 ---
 
 ## 🌟 About Me
@@ -69,11 +69,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL)
 
----
-
-## ✨ Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
 
 ---
 
